@@ -14,7 +14,7 @@
     display: grid;
     place-items: center;
     min-height: 100vh;
-    background-image: url('assets/back.jpg');
+    background-image: url('back.jpg');
     background-size: cover; /* Cover the entire body */
     background-repeat: no-repeat; /* Do not repeat the image */
     }
